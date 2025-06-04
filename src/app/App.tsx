@@ -11,6 +11,15 @@ function App() {
         padding: '20px 0',
       }}
     >
+
+
+
+
+
+
+
+
+        
       <CustomInput placeholder="Input" />
     </div>
   );

@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "lint:fix": "eslint . --fix --color",
+    "lint:fix": "eslint . --ext .js,.jsx,.ts,.tsx --fix --color",
     "preview": "vite preview",
     "format": "prettier --write .",
     "prepare": "husky install"
