@@ -1,4 +1,5 @@
 import { useState, type HTMLInputTypeAttribute } from 'react';
+
 import styles from './index.module.scss';
 
 interface CustomInputProps {

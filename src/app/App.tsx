@@ -7,20 +7,12 @@ function App() {
         margin: '0 auto',
         width: 1000,
         display: 'flex',
+
         justifyContent: 'center',
         padding: '20px 0',
       }}
     >
-
-
-
-
-
-
-
-
-        
-      <CustomInput placeholder="Input" />
+      <CustomInput type="text" placeholder="Input" />
     </div>
   );
 }
