@@ -7,7 +7,6 @@ function App() {
         margin: '0 auto',
         width: 1000,
         display: 'flex',
-
         justifyContent: 'center',
         padding: '20px 0',
       }}
