@@ -1,0 +1,17 @@
+.base {
+  color: #7b81ff;
+}
+
+.input {
+  border-radius: 6px;
+  border: 2px solid #6e6e6e;
+  padding: 2px 10px;
+  width: 360px;
+  height: 38px;
+
+  &:focus {
+    border: 2px solid #6e6e6e50;
+    outline: 2px solid #7b81ff;
+    outline-offset: 2px;
+  }
+}
